@@ -19,6 +19,6 @@ export default StyleSheet.create({
     display: 'none',
   },
   visible: {
-    display: 'flex',
+    display: 'block',
   },
 });
